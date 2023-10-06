@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Mainmenu.cs" />
     <Compile Include="Assets\Buttomhandler.cs" />
+    <Compile Include="Assets\number.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
