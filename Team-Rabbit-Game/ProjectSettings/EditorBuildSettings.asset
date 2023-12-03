@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/tryAgainScene.unity
     guid: 6589e9264cf290a409f99b2b9eb6f20c
+  - enabled: 1
+    path: Assets/Scenes/pauseScene.unity
+    guid: 75a76f217c2ea1f4a95c2372967c6feb
   m_configObjects: {}
